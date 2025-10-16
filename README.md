@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Dharanidharansr</h1>
+  <h1>Dharanidharan S R</h1>
 </div>
 
 
