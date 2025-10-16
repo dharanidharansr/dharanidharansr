@@ -94,11 +94,6 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharanidharansr&show_icons=true&theme=dark" alt="dharanidharansr" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dharanidharansr&layout=compact&theme=dark&langs_count=6" width="49%" height="195px"/>
-</p>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharanidharansr&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
