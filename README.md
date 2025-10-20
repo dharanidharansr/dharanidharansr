@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Dharanidharan S R</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1ACD55&center=true&width=435&lines=Hi+I'm+Dharanidharan+S+R" alt="Typing SVG" />
+  </a> 
 </div>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharanidharansr/dharanidharansr/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharanidharansr/dharanidharansr/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
