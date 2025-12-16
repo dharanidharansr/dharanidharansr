@@ -92,13 +92,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
+
 ## Cloud Platforms
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
+  </a>
 </p>
-<br />
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharanidharansr&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
