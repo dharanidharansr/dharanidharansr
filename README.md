@@ -4,9 +4,9 @@
   </a> 
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharanidharansr/dharanidharansr/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharanidharansr/dharanidharansr/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Contribution Animation" src="https://github.com/dharanidharansr/dharanidharansr/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharanidharansr/dharanidharansr/blob/main/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharanidharansr/dharanidharansr/blob/main/dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Contribution Animation" src="https://github.com/dharanidharansr/dharanidharansr/blob/main/dist/github-contribution-grid-snake.svg">
 </picture>
 
 <br />
