@@ -19,7 +19,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: dharanidharansr
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=#A855F7&color_dots=#9BE9A8,#40C463,#30A14E,#216E39
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=#A855F7&color_dots=#9BE9A8,#40C463,#30A14E,#216E39&color_empty=#000000
       - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
