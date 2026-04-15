@@ -41,10 +41,17 @@
 </p>
 </p>
 
-## Devops and Tools
+## Devops
 <p align="left">
   <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,terraform,aws,postman,figma," />
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,terraform,aws" />
+</p>
+</p>
+
+## Tools 
+<p align="left">
+  <p>
+  <img src="https://skillicons.dev/icons?i=postman,figma,vscode" />
 </p>
 </p>
 
@@ -65,6 +72,7 @@
   <a href="mailto:dharanidharan.sr@outlook.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dharanidharansr&label=Profile%20Views&color=1ACD55&style=for-the-badge" alt="profile views" />
